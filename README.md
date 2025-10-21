@@ -1,6 +1,7 @@
-![react-portfolio](https://github.com/AlinaAMG/Portfolio-react-tailwind/blob/master/src/assets/tailwind-portfolio.png)
 
 ### 🌐 Portfolio App
+
+![react-portfolio](https://github.com/AlinaAMG/Portfolio-react-tailwind/blob/master/src/assets/tailwind-portfolio.png)
 
 Dit is mijn persoonlijke portfolio — een moderne en minimalistische webapplicatie gebouwd met React, Vite, Tailwind CSS en React Icons.
 Het portfolio laat mijn projecten, vaardigheden en een korte introductie over mijzelf zien.
