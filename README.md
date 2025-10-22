@@ -1,7 +1,7 @@
 
 ### 🌐 Portfolio App
 
-## Live Demo
+####  Bekijk live
 https://portfolio-alinag.netlify.app/
 
 ![react-portfolio](https://github.com/AlinaAMG/Portfolio-react-tailwind/blob/master/src/assets/tailwind-portfolio.png)
