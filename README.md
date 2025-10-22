@@ -1,6 +1,9 @@
 
 ### 🌐 Portfolio App
 
+## Live Demo
+https://portfolio-alinag.netlify.app/
+
 ![react-portfolio](https://github.com/AlinaAMG/Portfolio-react-tailwind/blob/master/src/assets/tailwind-portfolio.png)
 
 Dit is mijn persoonlijke portfolio — een moderne en minimalistische webapplicatie gebouwd met React, Vite, Tailwind CSS en React Icons.
